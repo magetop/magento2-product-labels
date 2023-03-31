@@ -24,7 +24,7 @@
 ## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-product-labels-extension.html
-- Frontend demo : https://livedemo.magetop.com/product_labels
+- Frontend demo : https://livedemo.magetop.com/product_labels/women/tops-women.html?product_list_limit=36
 - Backend demo : https://livedemo.magetop.com/product_labels/admin
 
 ## Support & contact info
